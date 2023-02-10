@@ -1,8 +1,10 @@
 # coder_portfolio_codecommerce
 
-react portfolio
+##react portfolio
 with:
+```
 type animation
 react icons
 tailwind css
 working form
+```
